@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Travels",
+  "description": "Premium taxi booking and travel service app for customers in Ahmedabad, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
